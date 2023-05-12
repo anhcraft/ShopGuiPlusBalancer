@@ -290,6 +290,8 @@ public class Runner {
                 }
             }
         }
+
+        commandSender.sendMessage("Đã kiểm tra xong");
     }
 
     private IngredientCost calculateIngredientCost(Collection<ItemStack> input) {

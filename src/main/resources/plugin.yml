@@ -5,3 +5,4 @@ api-version: 1.14
 commands:
   sgpb:
     description: "ShopGuiPlusBalancer"
+    permission: shopguiplusbalancer.use
