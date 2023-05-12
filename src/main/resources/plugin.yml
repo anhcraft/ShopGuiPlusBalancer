@@ -1,0 +1,4 @@
+name: ShopGuiPlusBalancer
+version: '${project.version}'
+main: dev.anhcraft.shopguiplusbalancer.ShopGuiPlusBalancer
+api-version: 1.14
